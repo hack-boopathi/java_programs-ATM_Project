@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class typing_speed {
     public static void main(String[] args) {
-        String ts="The quick brown fox jumbs over the lazy dog ";
+        String ts="The quick brown fox jumps over the lazy dog";
         System.out.println("Type the follofwing sentance:");
         System.out.println(ts);
         long st= System.currentTimeMillis();
