@@ -16,7 +16,7 @@ public class duplicate_string {
 				}
 			}
 		}
-		System.out.println(count);
+		System.out.println("count of duplicate:"+count);
 
 	}
 
