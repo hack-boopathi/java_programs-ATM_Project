@@ -43,6 +43,9 @@ public class multilaval_inheritance {
 		banks b1=new banks();
 		
 b1.reserve_bank();
+b1.sbi_bank();
+b1.tmb();
+b1.union_bank();
 	}
 
 }
