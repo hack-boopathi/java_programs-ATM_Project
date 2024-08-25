@@ -6,7 +6,7 @@ public static void main (String[] args) {
 	ArrayList<Bus> buses=new ArrayList<Bus>();
 	ArrayList<booking> bookings=new ArrayList<booking>();
 	
-	buses.add(new Bus(1,true,1));
+	buses.add(new Bus(1,true,15));
 	buses.add(new Bus(2,false,20));
 	buses.add(new Bus(3,true,10));
 	Scanner sc=new Scanner(System.in);
