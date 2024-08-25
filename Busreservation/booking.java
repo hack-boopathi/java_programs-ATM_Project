@@ -10,7 +10,7 @@ public class booking {
 booking(){
 	Scanner sc1=new Scanner(System.in);
 	System.out.println("Enter a passenger name:");
-	passengername=sc1.next();
+	passengername=sc1.nextLine();
 	System.out.println("Enter bus no:");
 	busno=sc1.nextInt();
 	System.out.println("Enter a date dd-MM-yyyy:");
